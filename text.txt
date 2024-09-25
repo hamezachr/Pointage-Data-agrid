@@ -1,0 +1,14 @@
+date format
+https://www.npmjs.com/package/moment
+
+cryptage 
+https://www.npmjs.com/package/bcrypt
+
+tracabilité
+id_user
+
+
+
+git add .
+git commit -m "formatage des date"
+git push
